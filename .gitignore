@@ -17,7 +17,20 @@
 .minecraft/optionsof.txt
 .minecraft/optionsshaders.txt
 .minecraft/usernamecache.json
+.minecraft/servers.dat
 
+.minecraft/config/fastcraft.ini
+.minecraft/config/IC2.ini
+.minecraft/config/AppliedEnergistics2/recipes/items.csv
+.minecraft/config/AppliedEnergistics2/VersionChecker.cfg
+.minecraft/config/AppliedEnergistics2/CustomRecipes.cfg
+.minecraft/config/UniqueNames.txt
+.minecraft/config/splash.properties
+.minecraft/config/MouseTweaks.cfg
+.minecraft/config/InvTweaks.cfg
+.minecraft/config/iChunUtil.cfg
+
+.minecraft/journeymap/colorpalette.json
 .minecraft/journeymap/data/
 .minecraft/journeymap/**.log
 
