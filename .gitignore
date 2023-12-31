@@ -7,9 +7,11 @@
 .minecraft/coretweaks/
 .minecraft/logs/
 .minecraft/crash-logs/
+.minecraft/crash-reports/
 .minecraft/saves/
 .minecraft/screenshots/
 .minecraft/server-resource-packs/
+.minecraft/journeymap/
 
 .minecraft/knownkeys.txt
 .minecraft/localconfig.cfg
@@ -21,6 +23,8 @@
 
 .minecraft/config/fastcraft.ini
 .minecraft/config/IC2.ini
+.minecraft/config/AppliedEnergistics2/AppliedEnergistics2.cfg
+.minecraft/config/AppliedEnergistics2/Facades.cfg
 .minecraft/config/AppliedEnergistics2/recipes/items.csv
 .minecraft/config/AppliedEnergistics2/VersionChecker.cfg
 .minecraft/config/AppliedEnergistics2/CustomRecipes.cfg
@@ -29,10 +33,7 @@
 .minecraft/config/MouseTweaks.cfg
 .minecraft/config/InvTweaks.cfg
 .minecraft/config/iChunUtil.cfg
-
-.minecraft/journeymap/colorpalette.json
-.minecraft/journeymap/data/
-.minecraft/journeymap/**.log
+.minecraft/config/Treecapitator.cfg
 
 /natives
 

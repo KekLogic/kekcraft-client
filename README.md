@@ -1,5 +1,7 @@
 # KekCraft Modded Minecraft Client
 
+Version: 1.7.10
+
 ## How to run
 1. Download and install [Java 8](https://www.java.com/en/download/)
 2. Download and install [Prism Launcher](https://prismlauncher.org/download/)
